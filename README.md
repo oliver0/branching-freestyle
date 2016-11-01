@@ -7,3 +7,4 @@ This is about Branching
 * Item 4
 * Item 5
 * Item 6
+* Item 7
